@@ -9,7 +9,7 @@ dl, dd, ol, ul, figure {
 }
 
 html {
-    background-color: #0D1B2B;
+    background-color: #ffffff;
     // background:
     // linear-gradient(27deg, #151515 5px, transparent 5px) 0 5px,
     // linear-gradient(207deg, #151515 5px, transparent 5px) 10px 0px,
@@ -219,15 +219,6 @@ pre {
     }
 }
 
-.imageBIG { 
-  background: url(../css/amsterdam.jpeg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  color: blue;
-  height: 450px;
-}
 
 .imgMatthew img {
     border-radius: 10px;
@@ -240,9 +231,6 @@ pre {
     position: inline-block;
 }
 
-.site-footer .fietsPic {
-    max-width: 36px;
-}
 
 .site-footer .contact-list {
 
