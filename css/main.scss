@@ -27,9 +27,9 @@ $spacing-unit:     30px;
 
 $text-color:       #333333;
 $background-color: #FFFFFF;
-$brand-color:      #0B34FF;
+$brand-color:      #ffffff;
 
-$grey-color:       #333333;
+$grey-color:       #fafafa;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
@@ -76,3 +76,4 @@ $font-filepath-and-name: "assets/fonts/TiemposTextWeb-Regular";
         "layout",
         "syntax-highlighting"
 ;
+
