@@ -5,12 +5,8 @@ layout: home
 
 <div class="home">
 
-  <h1 class="page-heading"></h1>
+  <h1 class="post-heading"></h1>
 
-<div class="coming-soon">
-  <p>My personal blog, coming soon<p>
-  <p>For now, please check out <a href="http://matthewhicks.design">my portfolio</a></p>
-  </p>
 
   <ul class="post-list">
     {% for post in site.posts %}
@@ -18,7 +14,7 @@ layout: home
           <h2>
           {{ post.title }}
         </h2>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> 
+        <div class="post-meta-front-page">{{ post.date | date: "%b %-d, %Y" }}</div> 
         <div class="post-meta-front"></div>
 
         {{ post.content }}
@@ -30,7 +26,6 @@ layout: home
   </ul>
 
 <!--   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
-
 </div>
 
-<!-- <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> -->
+<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>

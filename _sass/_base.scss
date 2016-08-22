@@ -29,7 +29,7 @@ html {
 
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-    color: #ED444E;
+    color: rgba(0,0,0,.8);
     // background-color: #000;
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
@@ -97,7 +97,6 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
     font-weight: $base-font-weight;
-    font-size: $large-font-size;
 }
 
 
@@ -106,15 +105,16 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: #ffffff;
-    text-decoration: none;
+    color: rgba(0,0,0,.8);
+    text-decoration: underline;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: rgba(0,0,0,.8);
     }
 
     &:hover {
-        color: #ffffff;
+        color: rgba(0,0,0,.8);
+        text-decoration: underline;
     }
 }
 
@@ -239,4 +239,10 @@ pre {
 .coming-soon {
     text-align: center;
     font-size: 24px;
+}
+
+.post-list h2, {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
 }
