@@ -11,7 +11,7 @@ We most likely don't have the resources to do multiple iterations or have a thor
 
 Ultimately, it comes down to the questions your trying to answer by showing your work, and the end goal you have in mind. 
 
-If you're trying to prove your a "breathrough" artist, you're going to be disappointed - because these types don't exist. Rather, the idea of a 'breathrough' artist is a myth, because the individuals who are called 'breakthrough' have worked for many, many years studying and practicing the craft.
+If you're trying to prove you're a "breathrough" artist, you're going to be disappointed - because these types don't exist. Rather, the idea of a 'breathrough' artist is a myth, because the individuals who are called 'breakthrough' have worked for many, many years studying and practicing the craft.
 
 As this incredible Michel Phelps piece shows, the honing of a craft happens in the dark. And when you're ready to open it up to the light, you have to be prepared for what you want to get out of it.
 
