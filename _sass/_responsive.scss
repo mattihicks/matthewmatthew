@@ -2,19 +2,52 @@
 
     .site-title {
         font-size: 300%;
-}
+	}
+
+	.post-list h2 {
+		font-size: 120%;
+	}
+
+	body {
+		font-size: 120%;
+	}
+
+	.post-meta-front-page {
+		font-size: 90%;
+	}
 }
 
 @media screen and (max-width: 560px) {
 
     .site-title {
         font-size: 240%;
-}
+	}
+
+	.post-list h2 {
+		font-size: 120%;
+	}
+
+	body {
+		font-size: 100%;
+	}
 }
 
 @media screen and (max-width: 464px) {
 
     .site-title {
-        font-size: 180%;
-}
+        font-size: 240%;
+	}
+
+	.post-list h2 {
+		font-size: 120%;
+	}
+
+
+	body {
+		font-size: 100%;
+	}
+
+	.post-meta-front-page {
+		font-size: 80%;
+	}
 }

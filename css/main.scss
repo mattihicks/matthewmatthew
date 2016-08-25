@@ -8,16 +8,27 @@ $font-name: "GT-Walsheim-Medium";
 $font-path-file-name: {{ baseurl }}/assets/fonts/GT-Walsheim-Medium;
 $font-name-body: "TiemposTextWeb-Regular";
 $font-path-file-name-body: {{ baseurl }}/assets/fonts/TiemposTextWeb-Regular;
+$font-name-title: "TiemposTextWeb-Semibold";
+$font-path-file-name-title: {{ baseurl }}/assets/fonts/TiemposTextWeb-Semibold;
 
 // font_name font
 @font-face {
-  font-family: $font-name-body;
-  src: url($font-path-file-name-body+'.woff') format('woff'); /* Super Modern Browsers */
   font-family: $font-name;
-  src: url($font-path-file-name+'.woff') format('woff'); /* Super Modern Browsers */
+  src: url($font-path-file-name+'.woff') format('woff');
+}
+
+@font-face {
+  font-family: $font-name-title;
+  src: url($font-path-file-name-title+'.woff') format('woff');
+}
+
+@font-face {
+  font-family: $font-name-body;
+  src: url($font-path-file-name-body+'.woff') format('woff');
 }
 
 // Our variables
+$title-font-family: $font-name-title, Georgia, "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-family: $font-name-body, Georgia, "Helvetica Neue", Helvetica, Arial, sans-serif;
 $header-font-family: $font-name, Georgia, "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-size:   100%;
