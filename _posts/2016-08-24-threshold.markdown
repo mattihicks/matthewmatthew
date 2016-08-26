@@ -39,7 +39,7 @@ But what if you’re a painter and don’t know any other painters? Or any other
 
 Television shows, the news, social media, the phone, certain relationships - all of these can be devastating to your craft, your work. You need to get a handle on them and understand how they’re affecting your craft.
 
-Be conscientious about how you spend your time by using ad-blockers on your browser or putting your phone in the other room. Do whatever you can to continue. Because sometimes brute force alone can keep you level, can take you to the next level. 
+Be conscientious about how you spend your time by using ad-blockers on your browser or putting your phone in the other room. Do whatever you can to continue. Because sometimes brute force alone can take you to the next level. 
 
 So... what are you waiting for? Get to work. 
 
