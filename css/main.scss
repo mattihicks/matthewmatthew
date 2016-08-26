@@ -31,7 +31,7 @@ $font-path-file-name-title: {{ baseurl }}/assets/fonts/TiemposTextWeb-Semibold;
 $title-font-family: $font-name-title, Georgia, "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-family: $font-name-body, Georgia, "Helvetica Neue", Helvetica, Arial, sans-serif;
 $header-font-family: $font-name, Georgia, "Helvetica Neue", Helvetica, Arial, sans-serif;
-$base-font-size:   112.5%;
+$base-font-size:   16px; 
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 // $large-font-size: 19px;
@@ -41,7 +41,6 @@ $spacing-unit:     30px;
 
 $text-color:       #0D273F;
 $background-color: #FFFFFF;
-$brand-color:      #0B34FF;
 
 $grey-color:       #fafafa;
 $grey-color-light: lighten($grey-color, 40%);
@@ -58,31 +57,12 @@ $font-filepath-and-name: "assets/fonts/TiemposTextWeb-Regular";
 
 
 
-// Use media queries like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
         @content;
     }
 }
 
-// @include embed-font("Tiempos Text Web", "assets/fonts/TiemposTextWeb-Regular");
-// %icon-font {
-//     font-family: "TiemposTextWeb-Regular";
-// }
-
-// @mixin embed-font($font-name-tiempos, $font-filepath-and-name){
-//   @font-face {
-//     font-family: $font-name-tiempos,
-//     src: url(asset_path($font-filepath-and-name+".woff")) format('woff'), /* Modern Browsers */
-//     src: url(asset_path($font-filepath-and-name+".woff2")) format('woff2'), /* Modern Browsers */
-//     }
-// }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import

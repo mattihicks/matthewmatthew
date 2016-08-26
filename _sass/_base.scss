@@ -10,15 +10,6 @@ dl, dd, ol, ul, figure {
 
 html {
     background-color: #ffffff;
-    // background:
-    // linear-gradient(27deg, #151515 5px, transparent 5px) 0 5px,
-    // linear-gradient(207deg, #151515 5px, transparent 5px) 10px 0px,
-    // linear-gradient(27deg, #222 5px, transparent 5px) 0px 10px,
-    // linear-gradient(207deg, #222 5px, transparent 5px) 10px 5px,
-    // linear-gradient(90deg, #1b1b1b 10px, transparent 10px),
-    // linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424);
-    // background-color: #131313;
-    // background-size: 20px 20px;
 }
 
 
@@ -38,8 +29,6 @@ body {
     font-feature-settings: "kern" 1;
     font-kerning: normal;
 }
-
-
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -219,22 +208,8 @@ pre {
     }
 }
 
-
-.imgMatthew img {
-    border-radius: 10px;
-    max-width: 120px;
-    display: block;
-    margin: 0 auto;
-}
-
 .site-footer {
     position: inline-block;
-}
-
-
-.site-footer .contact-list {
-    float:left;
-
 }
 
 .post-list h2 {

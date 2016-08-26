@@ -17,7 +17,7 @@ Ultimately, it comes down to the questions you're trying to answer, and the end 
 So, if we want to show more work, then what do we have to do?
 <br/>
 <br/>
-**1. Get used to it.**
+**1. Get used to it**
 
 Pushing ‘Publish’ consistently makes you get used to getting out there, showing your work. Even if it’s not perfect, showing your work often can make you less sensitive to criticism and more importantly, allow others to get to know you and your craft.
 
