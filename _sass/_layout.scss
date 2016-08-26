@@ -118,10 +118,21 @@
     margin-bottom: $spacing-unit / 2;
 }
 
-.contact-list,
-.social-media-list {
+.contact-list {
     list-style: none;
     margin-left: 0px;
+    float: left;
+    display: inline;
+}
+
+.social-media {
+    list-style: none;
+    margin-left: auto;
+    display: flex;
+} li {
+    margin: 8px;
+} li:first-child {
+    margin-left: 0;
 }
 
 .footer-col-wrapper {
@@ -202,24 +213,26 @@
 }
 
 .post-meta {
-    font-size: 16px;
-    color: $grey-color-dark;
+    font-size: 84%;
+    color: #6d7d8b;
+    margin-bottom: 40px;
 } .post-meta-front {
 
     margin-bottom: $spacing-unit;
 }
 
 .post-meta-front-page {
-    font-size: 16px;
+    font-size: 84%;
     color: #6d7d8b;
     text-align: center;
+
 } .post-meta-front-front-page {
 
     margin-bottom: $spacing-unit;
 }
 
 .post-link {
-    font-size: 21px;
+    font-size: 1.03em;
 }
 
 
@@ -234,13 +247,15 @@
 .post-header {
     // margin-bottom: $spacing-unit;
     text-align: center;
+    margin-top: 40px;
 }
 
 .post-title {
-    font-size: $base-font-size;
     text-align: center;
     font-family: $title-font-family;
     font-weight: 400;
+    margin-bottom: 0;
+
 
     @include media-query($on-laptop) {
         font-size: $base-font-size;

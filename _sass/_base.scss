@@ -233,16 +233,24 @@ pre {
 
 
 .site-footer .contact-list {
+    float:left;
 
-}
-
-.coming-soon {
-    text-align: center;
-    font-size: 24px;
 }
 
 .post-list h2 {
     text-align: center;
-    font-size: 28px;
     font-family: $title-font-family;
+} .post-list h2 a {
+    text-decoration: none;
+}
+
+.after-title {
+    border-radius: 10px;
+}
+.site-footer {
+    display: flex;
+}
+
+ul li .social-media {
+    margin-left: auto;
 }

@@ -3,7 +3,10 @@ layout: post
 title:  "Creative Threshold"
 date:   2016-08-24 18:31:58 +0200
 categories: new
+image: "/assets/images/photoShare.jpg"
 ---
+
+![creative threshold photo]({{ site.url }}/assets/images/photoShare.jpg)
 
 I've struggled with this concept in the past, both as a designer and writer. The concept of "creative threshold", or rather, when the right time is to share your work. To show what you're doing on a personal project.
 
