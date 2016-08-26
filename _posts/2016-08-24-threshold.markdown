@@ -2,7 +2,7 @@
 layout: post
 title:  "Three steps to cross your creative threshold"
 date:   2016-08-24 18:31:58 +0200
-categories: creativity
+categories: new
 ---
 
 ![creative threshold photo](/assets/images/thresholdPIC.jpg){: .after-title }
