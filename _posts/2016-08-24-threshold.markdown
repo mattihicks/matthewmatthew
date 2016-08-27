@@ -41,6 +41,6 @@ Television shows, the news, social media, the phone, certain relationships - all
 
 Be conscientious about how you spend your time by using ad-blockers on your browser or putting your phone in the other room. Do whatever you can to continue. Because sometimes brute force alone can take you to the next level. 
 
-So... what are you waiting for? Get to work. 
+So... what are you waiting for? Get to work. And then show us.
 
-And then show us.
+For a great book on this topic, check out Austin Kleon's ["Show Your Work"](https://www.goodreads.com/book/show/18290401-show-your-work)
