@@ -9,7 +9,7 @@ image: http://matthewmatthew.com/assets/images/creativeMaker.jpg
 ![creative maker](/assets/images/creativeMaker.jpg){: .after-title }
 <br/><br/>
 
-It's easy to fall into the trap of constantly consuming content. With one quick swipe on our phone we read what other people are watching, hearing, and creating. But how much of that content are <em>you</em> creating? How much of that content has been shaped and shifted by your mind, your own hands? And how much of that has a deep, meaningful, and lasting affect on your life?
+It's easy to fall into the trap of constantly consuming content. With one quick swipe on our phone we read what other people are watching, hearing, and creating. But how much of that content are <em>you</em> creating? How much of that content has been shaped and shifted by your mind, your own hands? And how much of that has a deep, meaningful, and lasting effect on your life?
 
 Few people are strategic with how they consume, rather - whatever appears in their inbox or newsfeed is what they digest. And the people creating the content are shaping thoughts and feelings, both within your mind and society at large.
 
