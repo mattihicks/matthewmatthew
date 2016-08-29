@@ -3,7 +3,7 @@ layout: post
 title:  "The future belongs to those creating"
 date:   2016-08-29 22:52:58 +0200
 categories: creativity
-image: /assets/images/creativeMaker.jpg
+image: http://matthewmatthew.com/assets/images/creativeMaker.jpg
 ---
 
 ![creative maker](/assets/images/creativeMaker.jpg){: .after-title }
