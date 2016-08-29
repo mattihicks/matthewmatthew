@@ -152,9 +152,14 @@
     list-style: none;
     margin-top: $spacing-unit + 10;
 
-    > li {
+    > li:first-child {
+        margin-top: 0px;
         margin-bottom: $spacing-unit * 2;
+    }
 
+    li {
+        margin-top: $spacing-unit * 2 + 28;
+        margin-bottom: $spacing-unit * 2;
     }
 
     strong {
