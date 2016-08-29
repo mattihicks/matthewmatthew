@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The future belongs to those creating"
-date:   2016-08-28 18:31:58 +0200
+date:   2016-08-29 22:52:58 +0200
 categories: creativity
 ---
 
