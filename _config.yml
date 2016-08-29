@@ -20,8 +20,6 @@ markdown: kramdown
 
 future: true
 
-image: http://matthewmatthew.com/assets/images/creativeMaker.jpg
-
 # assets:
 #   assets_dir: _assets
 # include: ['_assets']
