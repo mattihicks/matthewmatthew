@@ -12,7 +12,7 @@ It's easy to fall into the trap of constantly consuming content. With one quick 
 
 Few people are strategic with how they consume, rather - whatever appears in their inbox or newsfeed is what they digest. And the people creating the content are shaping thoughts and feelings, both within your mind and society at large.
 
-To take an extreme example, Ann Coulter is creating. She publishes book after book after book of Republican far-right wing beliefs. Although her views are absurd, she is the one setting the tone on the news, in interviews, and to a large extent, in many parts of American society. Why? Because at a very basic level, she's consistently creating.
+To take an extreme example, [Ann Coulter](https://en.wikipedia.org/wiki/Ann_Coulter) is creating. She publishes book after book after book of Republican far-right wing beliefs. Although her views are absurd, she is the one setting the tone on the news, in interviews, and to a large extent, in many parts of American society. Why? Because at a very basic level, she's consistently creating.
 
 To create content gives you some power, because you can shape what other people think. How other people think. Even if people disagree with you, they are doing so as a reaction to what you're making.
 
