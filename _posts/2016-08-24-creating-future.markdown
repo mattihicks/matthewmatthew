@@ -17,6 +17,6 @@ To take an extreme example, [Ann Coulter](https://en.wikipedia.org/wiki/Ann_Coul
 
 To create content gives you some power, because you can shape what other people think. How other people think. Even if people disagree with you, they are doing so as a reaction to what you're making.
 
-And this is not about tangible creations, only. There's so much within ourselves to discover, to become, to create. But constantly consuming content gets in the way of this work. It obstructs us from pursing the art within our own lives. It stops us from making our own futures.
+And this is not about tangible creations, only. There's so much within ourselves to discover, to become, to create. But constantly consuming content gets in the way of this work. It obstructs us from pursuing the art within our own lives. It stops us from making our own futures.
 
 If you want to shape your own life and art, consume less. Create more.
