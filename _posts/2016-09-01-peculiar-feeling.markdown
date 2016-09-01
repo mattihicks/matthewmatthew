@@ -3,7 +3,6 @@ layout: post
 title:  "What is this feeling?"
 date:   2016-09-201 21:26:58 +0200
 categories: creativity
-image: http://matthewmatthew.com/assets/images/creativeMaker.jpg
 ---
 
 There's a peculiar feeling when saying goodbye to someone for the last time. I felt it the last time I saw my grandpa, the last time I saw one of my former colleagues, and with strangers I meet and then depart from serendipidiously. While none of these events can be equated, the same eeriness persists.
