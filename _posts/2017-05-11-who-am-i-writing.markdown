@@ -4,9 +4,9 @@ title:  "Who am I if I don't write?"
 date:   2017-05-11 21:26:58 +0200
 categories: creativity
 ---
-
+<!-- 
 ![Writing](/assets/images/writing.jpg){: .after-title }
-<br/><br/>
+<br/><br/> -->
 
 I've kept a regular journal since 2001, when I went on an exchange to Germany as a high school student. I still have scraps of paper from as far back as 1994 - when I was ten years old - that tell me about the kind of person I was, what I felt, who I loved, hated, and how I thought about life. But what happens when we fall silent? When we stop writing? Does time just disappear, life just flow right past us?
 
