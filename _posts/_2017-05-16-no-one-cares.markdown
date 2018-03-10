@@ -8,7 +8,7 @@ categories: creativity
 ![Writing](/assets/images/writing.jpg){: .after-title }
 <br/><br/> -->
 
-Testing yes. I've kept a regular journal since 2001, when I went on an exchange to Germany as a high school student. I still have scraps of paper from as far back as 1994 - when I was ten years old - that tell me about the kind of person I was, what I felt, who I loved, hated, and how I thought about life. But what happens when we fall silent? When we stop writing? Does time just disappear, life just flow right past us?
+I've kept a regular journal since 2001, when I went on an exchange to Germany as a high school student. I still have scraps of paper from as far back as 1994 - when I was ten years old - that tell me about the kind of person I was, what I felt, who I loved, hated, and how I thought about life. But what happens when we fall silent? When we stop writing? Does time just disappear, life just flow right past us?
 
 That's how I've felt about the past eight months since I've written in here. Like time is just escaping. But I need to write, I need to share and connect with people. But what has led me to not do that?
 
