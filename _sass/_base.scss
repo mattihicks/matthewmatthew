@@ -219,7 +219,8 @@ pre {
 
 .after-title {
     border-radius: 8px;
-    margin: auto;
+    margin: 0 auto;
+    display: block;
 }
 .site-footer {
     display: flex;
