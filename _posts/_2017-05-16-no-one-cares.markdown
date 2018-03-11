@@ -12,6 +12,6 @@ I've kept a regular journal since 2001, when I went on an exchange to Germany as
 
 That's how I've felt about the past eight months since I've written in here. Like time is just escaping. But I need to write, I need to share and connect with people. But what has led me to not do that?
 
-It's not being busy (we're all busy all the time), it's not for lack of interest (writing is in my heart), and it's not because I love doing other things more (except design comes close). It's something I can't describe, and should it matter? No. Passion is timeless, as is art. We should just create, because that's what our job is to do.
+It's not being busy (we're all busy all the time), it's not for lack of interest (writing is in my heart), and it's not necessarily because I love doing other things more. It's something I can't describe, and should it matter? No. Passion is timeless, as is art. We should just create, because that's what our job is to do.
 
 In these past eight months I got a new job. I traveled to South Africa. Traveled to Amsterdam, New York, London, Kansas City. Took weekly Dutch classes. I stopped drinking. I found something magical within myself - which I will share with you, when it's time. So, this writing continues. To figure out what I am doing, what is happening, to stay true to myself - I need to write.
