@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "To smile and be bold"
-date:   2018-01-27 21:26:58 +0200
+date:   2014-12-06 21:26:58 +0200
 categories: creativity
 ---
 <!-- 
