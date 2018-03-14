@@ -26,3 +26,5 @@ I kept finding myself - in London and Amsterdam and Berlin and Zürich and Paris
 I was on a flight with a group of Jews traveling to Tel Aviv through Zürich. Across from me sat a man reading a book in Hebrew, and while watching him something within me clicked - I don't know what it was, but a strong feeling toward something. The indescribable feeling arose within me, something of what I knew was so strongly inside was now bubbling over the surface of my life.
 
 After landing in Zürich, I began the task of approaching the G!d that existed all along. I just had to acknowledge the existence within; had to build the confidence to say "Yes" to myself, before I could fully acknowledge what was living in my soul.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eIkoeocWhcw?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
