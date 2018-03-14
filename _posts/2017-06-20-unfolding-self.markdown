@@ -27,4 +27,5 @@ I was on a flight with a group of Jews traveling to Tel Aviv through Zürich. Ac
 
 After landing in Zürich, I began the task of approaching the G!d that existed all along. I just had to acknowledge the existence within; had to build the confidence to say "Yes" to myself, before I could fully acknowledge what was living in my soul.
 <br/><br/>
-<iframe width="724" height="407" src="https://www.youtube.com/embed/eIkoeocWhcw?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="724" height="407" src="https://www.youtube-nocookie.com/embed/eIkoeocWhcw?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
