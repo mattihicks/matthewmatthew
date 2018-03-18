@@ -5,6 +5,7 @@
 
 // Font variables
 $font-name: "GT-Walsheim-Medium";
+$font-name-regular: "GT-Walsheim";
 $font-path-file-name: {{ baseurl }}/assets/fonts/GT-Walsheim-Medium;
 $font-name-body: "TiemposTextWeb-Regular";
 $font-path-file-name-body: {{ baseurl }}/assets/fonts/TiemposTextWeb-Regular;
@@ -37,6 +38,7 @@ $font-path-file-name-title: {{ baseurl }}/assets/fonts/TiemposTextWeb-Semibold;
 // Our variables
 $title-font-family: $font-name-title, Georgia, "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-family: $font-name-body, Georgia, "Helvetica Neue", Helvetica, Arial, sans-serif;
+$header-page-links-font-family: $font-name-regular, Georgia, "Helvetica Neue", Helvetica, Arial, sans-serif;
 $header-font-family: $font-name, Georgia, "Helvetica Neue", Helvetica, Arial, sans-serif;
 $blockquote-font-family: $font-name-quote, Georgia, "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-size:   16px; 
