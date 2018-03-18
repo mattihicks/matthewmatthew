@@ -5,7 +5,7 @@ date:   2018-03-18 21:26:58 +0200
 categories: personal
 ---
 
-![Lita pic](/assets/images/lita.jpg){: .after-title }
+![Lita pic](/assets/images/lita2.jpg){: .after-title }
 <br/>
 
 A dear friend and former Trader Joe's colleague was brutally murdered in her home last Sunday. Lita was not only one of the kindest people one would ever meet, but she was also a fighter for social justice and equality. She was a community builder, an advocate, and a dear friend to all who knew her.
