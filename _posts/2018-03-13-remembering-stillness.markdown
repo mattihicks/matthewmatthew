@@ -8,11 +8,12 @@ categories: personal
 ![Lita pic](/assets/images/lita2.jpg){: .after-title }
 <br/>
 
-A dear friend and former Trader Joe's colleague was brutally murdered in her home last Sunday. Lita was not only one of the kindest people one would ever meet, but she was also a fighter for social justice and equality. She was a community builder, an advocate, and a dear friend to all who knew her.
+A dear friend and former Trader Joe's colleague was 
+[brutally murdered](http://q13fox.com/2018/03/14/woman-found-murdered-inside-wallingford-home-described-as-a-glue-of-the-neigbhorhood/) in her home last Sunday. Lita was not only one of the kindest people one would ever meet, but she was also a fighter for social justice and equality. She was a community builder, an advocate, and a dear friend to all who knew her.
 
 The fact that she died is one thing, but the brutal way in which she died begs me to ask: why her? Why would anyone want to do such a violent act towards another human being, much less Lita?
 
-On this past Shabbat Rabbi Angela Buchdahl spoke about gun violence in America. She said she couldn't believe in a G!d who would choose which kids would live and which ones would die in a mass shooting. In the same way, I can't believe in a G!d who would pick Lita to die, so young, so full of kindness and life. It just doesn't work like that.
+On this past Shabbat [Rabbi Angela Buchdahl](https://en.wikipedia.org/wiki/Angela_Warnick_Buchdahl) spoke about gun violence in America. She said she couldn't believe in a G!d who would choose in a mass shooting which kids would live and which ones would die. In the same way, I can't believe in a G!d who would pick Lita to die, so young, so full of kindness and life. It just doesn't work like that.
 
 I believe in the G!d that brought Lita's impact on other people into this world. "Remember to keep it kind," Lita would say. During this past week, there has been a massive outpouring of love for Lita, for her life and her work. G!d exists with these people; the presence appears when Lita's friends come together and ask: "Why?" When we shed tears for Lita. When we donate money to help pay for her funeral costs.
 
