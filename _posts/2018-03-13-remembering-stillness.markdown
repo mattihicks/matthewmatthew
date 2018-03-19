@@ -9,7 +9,7 @@ categories: personal
 <br/>
 
 A dear friend and former Trader Joe's colleague was 
-[brutally murdered](http://q13fox.com/2018/03/14/woman-found-murdered-inside-wallingford-home-described-as-a-glue-of-the-neigbhorhood/) in her home last Sunday. Lita was not only one of the kindest people one would ever meet, but she was also a fighter for social justice and equality. She was a community builder, an advocate, and a dear friend to all who knew her.
+[brutally murdered](http://q13fox.com/2018/03/14/woman-found-murdered-inside-wallingford-home-described-as-a-glue-of-the-neigbhorhood/) in her home last Sunday. Lita was not only one of the kindest people one would ever meet, but she was also a fighter for social justice and equality.
 
 The fact that she died is one thing, but the brutal way in which she died begs me to ask: why her? Why would anyone want to do such a violent act towards another human being, much less Lita?
 
