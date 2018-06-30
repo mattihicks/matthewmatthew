@@ -16,7 +16,7 @@ For every bad thing Daniel did, there was an equal amount of love, kindness, gen
 
 It pains me to write this in the past tense, but maybe someday this will become normal: his heart stopped beating on January 23, 2012, 23:29 Holland time. His death is impossible to accept, like an unfathomable reality I cannot comprehend.
 
-When I discovered his heart would stop beating at any moment, I first went to the gym. It seemed like the only thing to do. “Just follow the schedule, Matthew. Follow the damn schedule,” I told myself. And I did. I went to the gym and began running. But I had to stop. I couldn’t continue. It was as if someone or something was placing a white sheet over everything — all of the treadmills, weights, exercise machines, and my own ability to think. I had to do something else, but I didn’t know what to do — my best friend was dying.
+When I discovered his heart would stop beating at any moment, I first went to the gym. It seemed like the only thing to do. “Just follow the schedule, Matti. Follow the damn schedule,” I told myself. And I did. I went to the gym and began running. But I had to stop. I couldn’t continue. It was as if someone or something was placing a white sheet over everything — all of the treadmills, weights, exercise machines, and my own ability to think. I had to do something else, but I didn’t know what to do — my best friend was dying.
 
 <center>***</center>
 
