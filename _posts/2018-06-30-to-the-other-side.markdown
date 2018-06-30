@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Breaking through to the other side"
-date:   2018-03-14 21:26:58 +0200
+date:   2018-06-30 21:26:58 +0200
 categories: personal
 ---
 
