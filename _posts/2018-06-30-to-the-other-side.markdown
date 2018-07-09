@@ -16,5 +16,5 @@ For many, connecting with a higher power is very difficult, almost impossible. G
 
 But how can we break through that feeling that we grow up in - the feeling of G!d as punishment, and begin to believe in an intimate, loving power that manifests through how we treat ourselves and others? Through how we do our work and make a positive impact on the world?
 
-Viewing G!d as a spirit within your heart, rather than punitive power in the sky is a start. Just giving another name - your personal name for what you call G!d - could be your answer. Whatever you do, just get started.
+Viewing G!d as a spirit within your heart, rather than existing somewhere far up in the sky is a start. Just giving another name - your personal name for what you call G!d - could be your answer. Whatever you do, just get started.
 
