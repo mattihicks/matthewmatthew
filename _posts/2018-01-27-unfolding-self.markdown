@@ -8,8 +8,8 @@ categories: jewish
 ![Writing](/assets/images/magein.jpeg){: .after-title }
 <br/><br/>
 
-*“And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom.”
-— Anaïs Nin*<br/><br/>
+<div class="quote">“And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom.”
+— Anaïs Nin</div>
 
 Growing up there were two sections of the local bookstore I felt afraid to be caught in: the LGBTQ section and the Judaism section. I was raised in a family of Christian fundamentalists, and the mere interest in being gay or Jewish was unthinkable - as if the moment I was caught with one of these books I'd be sent to hell.
 
