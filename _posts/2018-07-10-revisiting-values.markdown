@@ -10,7 +10,7 @@ categories: personal
 
 Last weekend I read an interview with [Shawn Sprockett in the Techies Project](https://techiesproject.com/shawn-sprockett/) where he was asked: "What is really exciting to you about your work? What are things you’re super proud of, what are things that really activate you right now?"
 
-If I were to answer this very quickly, I'd say that it was exciting that my work involves transforming lives through travel and education. But this is a very expected, somewhat drinkin'-the-koolaid response. I just finished a project that I was on for a year and a half and am wanting to dig a little bit deeper into what "activates" me.
+If I were to answer this very quickly, I'd say that it was exciting that my work involves transforming lives through travel and education. But this is a very expected, somewhat drinkin'-the-koolaid response. I just finished a long, drawn-out, somewhat arduous project and am wanting to dig a little bit deeper into what "activates" me.
 
 If I go into my past, the work that I was most excited by involved stories of people finding themselves in this world, and how technology can facilitate that process. Perhaps it started with my experience as a bullied 12 year old gay boy in the Midwest finding support online. And from there, finding a way to travel to Germany via my online Filipino penpal. Later, in college, designing ultrasound technology for midwives in Uganda. And then, an app that facilitated HIV disclosure. And et cetera, et cetera...
 
