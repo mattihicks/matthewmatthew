@@ -10,11 +10,13 @@ categories: personal
 
 *"People are accustomed to look at the heavens and to wonder what happens there. It would be better if they would look within themselves, to see what happens there." - Kotzker Rebbe*
 
-Last month I went to a lecture about Hasidism by Rabbi Arthur Green in Zürich. Rabbi Green said that many Hasid view themselves as having a direct, intimate relationship with G!d, and this is what attracts many to Hasidism today. G!d is not some cold, stone-faced almighty, but rather an intimate spirit that you experience through prayer.
+Growing up I thought the "man living upstairs" was a mean, punishing power. When I was young, I remember one of my relatives pointing at a burning campfire and saying: "If you're not a good boy, you'll burn in there forever." As I grew older I realized I could have a new relationship with this power, a relationship that I would help me to become a better version of myself.
 
-For many, connecting with a higher power is very difficult, almost impossible. Growing up I thought the "man living upstairs" was a mean, punishing power. Later on I realized that I could have a new relationship with this power, a relationship that I could grow into believing and that would help me to become a better version of myself.
+For me, my deepest sense of G!d is through Judaism, through the prayers and how one lives as a Jew. But others may reach a higher spiritual plane through Budaism or even some vague sense of spiritualism. This is ok. As long as you search for a peace within. As long as you can break through to your truth.
 
-But how can we break through that feeling that we grow up in - the feeling of G!d as punishment, and begin to believe in an intimate, loving power that manifests through how we treat ourselves and others? Through how we do our work and make a positive impact on the world?
+But how to break through? How can we shed our preconceived notions of G!d and arrive at a version that speaks to us, that is in line with our hearts? 
 
-Viewing G!d as a spirit within your heart, rather than existing somewhere far up in the sky is a start. Just giving another name - your personal name for what you call G!d - could be your answer. Whatever you do, just get started.
+It begins with prayer and meditation and creating the space for silence. It begins with affirming what we believe by how we behave, by how we treat others, and how we make the world a better place for everyone.
+
+
 
