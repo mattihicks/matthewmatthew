@@ -14,4 +14,4 @@ If I were to answer this very quickly, I'd say that it was exciting that my work
 
 If I go into my past, the work that I was most excited by involved stories of people finding themselves in this world, and how technology can facilitate that process. Perhaps it started with my experience as a bullied 12 year old gay boy in the Midwest finding support online. And from there, finding a way to travel to Germany via my online Filipino penpal. And then later, the projects that I worked on in college, such as designing a medical device for Ugandan midwives, or HIV disclosure service, certaintly "activated" my passions for the impact that design can have on people's everyday lives.
 
-I must press forward toward what activates me, what makes my soul come alive.
+I must press forward toward what activates me, what makes my soul come alive. As I wrote yesterday, we should remain close to what matters most to us, close to our heart, close to who we are. Same with passions and interests - they don't only come from looking outside, but from looking within.
