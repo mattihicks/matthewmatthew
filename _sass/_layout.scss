@@ -36,9 +36,11 @@
 }
 
 .site-nav {
-    line-height: 56px;
-    font-size: 19px;
+    margin-top:16px;
+    line-height: 32px;
+    font-size: 14px;
     font-family: $header-font-family;
+    text-align: center;
 
     .menu-icon {
         display: none;
@@ -55,9 +57,11 @@
             margin-right: 20px;
         } &:hover {
         color: #707070;
-        text-decoration: underline;
+    } &.active {
+        color: #161616;
     }
-    }
+
+}
 
     @include media-query($on-palm) {
         top: 9px;
@@ -65,7 +69,7 @@
         background-color: #ffffff;
         border: 1px solid $grey-color-light;
         border-radius: 5px;
-        text-align: right;
+        text-align: center;
 
         .menu-icon {
             display: block;
@@ -87,10 +91,10 @@
             }
         }
 
-        .trigger {
-            clear: both;
-            display: none;
-        }
+        // .trigger {
+        //     clear: both;
+        //     display: none;
+        // }
 
         &:hover .trigger {
             display: block;
@@ -98,7 +102,7 @@
         }
 
         .page-link {
-            display: block;
+            display: inline-block;
             padding: 5px 10px;
 
             &:not(:last-child) {
@@ -106,6 +110,7 @@
             }
             margin-left: 20px;
         }
+
     }
 }
 
@@ -226,6 +231,24 @@
 
 .strong-emphasis {
     color: blue;
+}
+
+
+.pictureAbout {
+    max-width: 370px;
+    float: left;
+} img {
+    max-width: 84%;
+    margin-bottom: 32px;
+}
+
+.infoAbout {
+    float: right;
+    max-width: 370px;
+}
+
+.clearBoth {
+    clear: both;
 }
 
 

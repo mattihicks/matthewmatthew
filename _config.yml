@@ -24,8 +24,8 @@ future: true
 #   assets_dir: _assets
 # include: ['_assets']
 
-# gems:
-#   - jekyll-assets
+gems:
+  - jekyll-assets
 
 # assets:
 #   sources:
