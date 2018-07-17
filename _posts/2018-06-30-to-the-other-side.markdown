@@ -18,7 +18,7 @@ But it didn't come easily. I had to deal with false notions of right and wrong. 
 
 But how to break through? How can we shed our preconceived notions of G!d and arrive at a version that speaks to us, that is in line with our hearts? Part of it is growing up and being comfortable with yourself - that your adult beliefs are as valid as your parents were at the age you're right now.
 
-Another part is through practice, such as praying or meditation and creating the space for silence, a space for just being. It also begins with affirming what we believe through how we live, how we treat others, and how we make the world a better place.
+Another part is through practice, such as praying or meditation and creating the space for silence, a space for just being. It also begins with affirming what we believe through how we live, how we treat others, and how we take action to make a better world.
 
 
 
