@@ -10,9 +10,7 @@ permalink: /about/
 	</div>
 
 <div class="infoAbout">
-		<p>I'm a designer and writer living in Zürich, Switzerland. This is a personal blog about traveling, love, creativity, LGBT+, and Judaism. </p>
-
-<p>It's a work in progress (but isn't everything?!).</p>
+		<p>I'm Matti Hicks, a designer and writer living in Zürich, Switzerland. This is a personal blog about creating a good life in a strange land. </p>
 </div>
 
 <div class="clearBoth"></div>
