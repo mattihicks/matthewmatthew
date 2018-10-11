@@ -14,8 +14,6 @@ Over the past two years at EF I've been the primary researcher on all of our pro
 
 But WTF, Matti? You're a designer, you love pixels, you love code, you love color and typography and flows. Yes I do! I still do. But I also love writing interview scripts, conducting fieldwork, designing surveys, asking hard questions. I love diving deep into the questions, and being surprised by what people tell me. I love communicating findings to the creative and engineering teams, and getting them excited about asking questions and pursuing their own research.
 
-So where am I headed, what I am doing? I'm getting all researchy, I'm becoming a UX Researcher*.
+So where am I headed, what I am doing? I'm becoming more of a UX Researcher, less of a designer in my day to day work. 😉🦈
 
-Also, if you have a similar experience of pivoting from one discipline to another - or if you're just plain antidiscipline, I'd love to connect.
-
-<p class="captionText">*But titles be damned, I'll always be a maker 😉🦈
+If you have a similar experience of pivoting from one discipline to another - or if you're just plain antidiscipline, I'd love to connect.
