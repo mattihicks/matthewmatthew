@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Getting all researchy"
-date:   2018-10-11 21:26:58 +0200
+date:   2018-10-11 21:27:00 +0200
 categories: work
 ---
 
