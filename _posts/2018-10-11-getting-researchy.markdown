@@ -18,4 +18,4 @@ So where am I headed, what I am doing? I'm becoming more of a UX Researcher*.
 
 If you have a similar experience of pivoting from one discipline to another - or if you're just plain antidiscipline, I'd love to connect.
 
-<p class="captionText">*But titles be damned, I'll always be a designer/maker 😉🦈
+<p class="captionText">*But titles be damned, I'll always be a designer + maker 😉🦈
