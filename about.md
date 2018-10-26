@@ -10,8 +10,8 @@ permalink: /about/
 	</div>
 
 <div class="infoAbout">
-		<p>I'm Matti Hicks, a designer and writer living in Zürich, Switzerland. This is a personal blog about creating a good life in a strange land. </p>
-		<p>I like to write short stories, work out, and <a href="https://www.mattihicks.com">design</a>.</p>
+		<p>I'm Matti Hicks, researcher, designer, and writer living in Zürich, Switzerland. This is a personal blog about creating a good life in a strange land. </p>
+		<p>I like to write short stories, work out, and learn languages. For more information about me, check out my <a href="https://www.mattihicks.com">portfolio</a>.</p>
 </div>
 
 <div class="clearBoth"></div>
