@@ -2,7 +2,8 @@
 layout: post
 title:  "Be present so others can find you"
 date:   2018-10-25 18:31:58 +0200
-categories: new
+description: "5 tips to find your creative tribe"
+image: present.jpeg
 ---
 
 ![creative threshold photo](/assets/images/present.jpeg){: .after-title }

@@ -18,6 +18,6 @@ categories: judaism
 <li> Taste your food. It's entering your body, becoming a part of you.</li> 
 <li> Sleep. You never get enough on any other days.</li> 
 <li> Meditate. Find peace with yourself and your world.</li> 
-<li> Pray with your community. You soul rejoices with G!d when you do.</li> 
+<li> Pray with your community. You soul rejoices with God when you do.</li> 
 </ul>
 </div>
