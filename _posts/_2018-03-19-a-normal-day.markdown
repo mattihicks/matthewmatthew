@@ -13,9 +13,9 @@ A dear friend and former Trader Joe's colleague was
 
 The fact that she died is one thing, but the brutal way in which she died begs me to ask: why her? Why would anyone want to do such a violent act towards another human being, much less Lita?
 
-On this past Shabbat [Rabbi Angela Buchdahl](https://en.wikipedia.org/wiki/Angela_Warnick_Buchdahl) spoke about gun violence in America. She said she couldn't believe in a G!d who would choose in a mass shooting which kids would live and which ones would die. In the same way, I can't believe in a G!d who would pick Lita to die, so young, so full of kindness and life. It just doesn't work like that.
+On this past Shabbat [Rabbi Angela Buchdahl](https://en.wikipedia.org/wiki/Angela_Warnick_Buchdahl) spoke about gun violence in America. She said she couldn't believe in a God who would choose in a mass shooting which kids would live and which ones would die. In the same way, I can't believe in a God who would pick Lita to die, so young, so full of kindness and life. It just doesn't work like that.
 
-I believe in the G!d that brought Lita's impact on other people into this world. "Remember to keep it kind," Lita would say. During this past week, there has been a massive outpouring of love for Lita, for her life and her work. G!d exists with these people; the presence appears when Lita's friends come together and ask: "Why?" When we shed tears for Lita. When we donate money to help pay for her funeral costs.
+I believe in the God that brought Lita's impact on other people into this world. "Remember to keep it kind," Lita would say. During this past week, there has been a massive outpouring of love for Lita, for her life and her work. God exists with these people; the presence appears when Lita's friends come together and ask: "Why?" When we shed tears for Lita. When we donate money to help pay for her funeral costs.
 
 HaShem exists in the acts that come from us, the actions that work against violence, against evil. To work to make this world a more loving, kinder world.
 
