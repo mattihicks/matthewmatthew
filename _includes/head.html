@@ -15,6 +15,12 @@
 <!--   <meta property="og:image" content="https://hickspress.com/assets/images/thresholdPIC.jpg"> -->
 <meta property="og:image" content="{{ site.url }}/assets/images/{{ page.image }}">
 
+<meta property="og:image:alt" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+<meta property="og:image:type" content="image/jpg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+
+
 
 <!--   <meta property="og:description" content="A personal blog about life and creativity." /> -->
 
