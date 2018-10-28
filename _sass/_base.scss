@@ -229,3 +229,35 @@ pre {
 ul li .social-media {
     margin-left: auto;
 }
+
+.pagination-page_number {
+    text-align: center;
+    color: green;
+    display: inline-block;
+
+}
+
+.next-pagination {
+    vertical-align: right;
+    display: inline-block;
+    text-align: right;
+    right: 0;
+    margin-left: 20px}
+
+.pagination-wrapper {
+  text-align: center;
+}
+
+.pagination {
+  display: inline-block;
+  margin: 0 0 2rem;
+  font-size:80%;
+}
+
+.pagination a {
+text-decoration: none;
+}
+
+.previous-pagination {
+    margin-right: 20px;
+}

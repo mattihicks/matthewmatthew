@@ -10,7 +10,7 @@ image: aboutPicOG.jpg
 
 
   <ul class="post-list">
-    {% for post in site.posts limit: 10 %}
+    {% for post in paginator.posts %}
       <li>
           <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
         <div class="post-meta-front-page">{{ post.date | date: "%b %-d, %Y" }}</div> 
@@ -23,6 +23,27 @@ image: aboutPicOG.jpg
       </li>
     {% endfor %}
   </ul>
+
+<div class="pagination-wrapper">
+  <div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous-pagination">
+      Previous
+    </a>
+  {% else %}
+    <span class="previous"></span>
+  {% endif %}
+  <div class="pagination-page_number ">
+    Page {{ paginator.page }} of {{ paginator.total_pages }}
+  </div>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next-pagination"> Next</a>
+  {% else %}
+    <div class="next-pagination "></div>
+  {% endif %}
+</div>
+</div>
+
 
 <!--   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
 </div>

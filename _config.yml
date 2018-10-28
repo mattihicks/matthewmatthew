@@ -34,5 +34,5 @@ future: true
 #     - _assets/images
 
 plugins: [jekyll-paginate]
-paginate: 6
-paginate_path: /page:num/
+paginate: 10
+paginate_path: /page/:num/
