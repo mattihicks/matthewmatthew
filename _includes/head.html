@@ -7,10 +7,14 @@
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@mattihicks" />
   <meta name="twitter:image" content="https://hickspress.com/assets/images/thresholdPIC.jpg">
-  <meta property="og:url" content="https://www.mattihicks.com" />
-  <meta property="og:title" content="Hicks Press" />
-  <meta property="og:image" content="https://hickspress.com/assets/images/thresholdPIC.jpg">
-  <meta property="og:description" content="A personal blog about life and creativity." />
+
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:site_name" content="{{ site.title }}">
+<!--   <meta property="og:image" content="https://hickspress.com/assets/images/thresholdPIC.jpg"> -->
+<meta property="og:image" content="{{ site.url }}/images/{{ page.image }}">
+<!--   <meta property="og:description" content="A personal blog about life and creativity." /> -->
 
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
