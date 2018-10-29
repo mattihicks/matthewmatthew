@@ -6,7 +6,7 @@ categories: life
 ---
 
 ![People jumping for joy](/assets/images/FUN_POST.jpeg){: .after-title }
-<br/><br/>
+<br/>
 Research is a serious thing. Design is a serious thing. Life is a serious thing. But what good is any of it if you don’t love doing it? If you don’t enjoy practicing or living it? If you don’t show the fun in any of it?
 
 It can be so easy to get bogged down in the details, the seriousness of the task. Kids to feed. Pixels to push. Stakeholders to please. But when activities feel like a slog, ask yourself: “where’s the fun? Where’s the enjoyment?”

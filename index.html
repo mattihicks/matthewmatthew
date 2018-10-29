@@ -24,8 +24,16 @@ image: aboutPicOG.jpg
     {% endfor %}
   </ul>
 
-<div class="pagination-wrapper">
-  <div class="pagination">
+
+
+
+<div class="paginatorSupreme">
+
+
+
+
+
+
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous-pagination">
       Previous
@@ -33,16 +41,30 @@ image: aboutPicOG.jpg
   {% else %}
     <span class="previous"></span>
   {% endif %}
-  <div class="pagination-page_number ">
-    Page {{ paginator.page }} of {{ paginator.total_pages }}
-  </div>
-  {% if paginator.next_page %}
+
+
+<span class="pageNum">
+  {{ paginator.page }} of {{ paginator.total_pages }}
+</span>
+
+
+    {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}" class="next-pagination"> Next</a>
   {% else %}
     <div class="next-pagination "></div>
   {% endif %}
 </div>
-</div>
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!--   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->

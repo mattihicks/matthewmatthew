@@ -232,7 +232,6 @@ ul li .social-media {
 
 .pagination-page_number {
     text-align: center;
-    display: inline-block;
 
 }
 
@@ -248,16 +247,31 @@ ul li .social-media {
 }
 
 .pagination {
-  display: inline-block;
   margin: 0 0 2rem;
   font-size:80%;
+  color: #6d7d8b;
 }
 
 .pagination a {
 text-decoration: none;
-font-weight: bold;
+  color: #6d7d8b;
+  font-weight: bold;
 }
 
 .previous-pagination {
     margin-right: 24px;
 }
+
+
+
+// correct
+.paginatorSupreme, .paginatorSupreme a {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: no-wrap;
+      justify-content: space-between;
+      text-decoration: none;
+      font-size: 90%;
+
+}
+

@@ -7,7 +7,7 @@ image: present.jpeg
 ---
 
 ![creative threshold photo](/assets/images/present.jpeg){: .after-title }
-<br/><br/>
+<br/>
 
 When is the right time to share work? I’ve struggled with this concept in the past, both as a designer and writer. Many blog posts and books have probably been written about this, I am sure. But nothing has resonated with me until I began asking myself: how present am I?
 

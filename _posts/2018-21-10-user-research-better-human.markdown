@@ -6,7 +6,7 @@ categories: life
 ---
 
 ![Robot with kid](/assets/images/better-human.jpeg){: .after-title }
-<br/><br/>
+<br/>
 
 What qualities does it take to be a good user researcher? Empathy, curiosity, active listening, (re)framing, persuasion, patience, experimental-mindset, neutrality, and tenacity. The ability to be comfortable both when the data are unclear and when one must make solid recommendations. The ability to suspend judgment, and to courageously serve as the voice of the user.
 
