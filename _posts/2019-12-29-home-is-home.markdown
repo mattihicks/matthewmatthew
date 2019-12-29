@@ -2,8 +2,8 @@
 layout: post
 title:  "Home is home"
 date:   2019-12-29 18:31:58 +0200
-description: "On feeling comfortable where we are"
-image: present.jpeg
+description: ""
+image: home-is-home.jpg
 ---
 
 ![home is home photo](/assets/images/home-is-home.jpg){: .after-title }
