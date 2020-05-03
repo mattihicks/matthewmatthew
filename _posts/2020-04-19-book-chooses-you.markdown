@@ -4,6 +4,7 @@ title:  "When a book chooses you"
 date:   2020-04-19 18:31:58 +0200
 description: ""
 image: here_all_along_post.png
+comments: true
 ---
 
 ![here all along photo](/assets/images/here_all_along_post.png){: .after-title }
